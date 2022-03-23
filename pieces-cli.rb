@@ -2,7 +2,7 @@ class PiecesCli < Formula
   desc "A command line application for Pieces"
   homepage "https://code.pieces.app/"
   url "https://storage.googleapis.com/pieces-cli-production-releases/pieces-cli-0.0.2.tar.gz"
-  sha256 "9b371493ffbc0b45f1584b139e7c806c337e5de6bc9e325129b47192f13164ba"
+  sha256 "85ad00287431d08f37ba98f04ebac93777ae9f6bb1586fe197747bdb6ee66d40"
   license "MIT"
 
   def install

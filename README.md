@@ -1,1 +1,1 @@
-# homebrew-pieces-cli-mac
+# Pieces CLI for MacOS - Homebrew
